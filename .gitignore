@@ -65,6 +65,9 @@ db.sqlite3-journal
 instance/
 .webassets-cache
 
+#Virtual environment
+.venv/
+
 # Scrapy stuff:
 .scrapy
 
